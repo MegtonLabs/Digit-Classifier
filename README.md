@@ -1,4 +1,4 @@
-# 🌐 CNN Image Classifier
+# 🌐 CNN Digits Classifier
 
 An interactive and beginner-friendly Convolutional Neural Network (CNN) project built with **Python** and **TensorFlow/Keras** for image classification tasks.
 
@@ -24,16 +24,14 @@ This project implements a simple CNN to classify images into different categorie
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/MegtonLabs/Digit-Classifier.git
+cd Digit-Classifier
 ```
 
 ### 2. Install Requirements
 ```bash
 pip install -r requirements.txt
 ```
-
-> _**Note**: A `requirements.txt` will list libraries like `tensorflow`, `numpy`, etc._
 
 ### 3. Run the Project
 ```bash
@@ -75,28 +73,22 @@ Consider adding:
 ## 📦 Folder Structure (Suggestion)
 ```
 .
+
+└── /checkpoint
+    └── mnist_cnn.weights.h5
 ├── CNN.py
 ├── README.md
 ├── requirements.txt
-├── /dataset
-│   ├── /train
-│   └── /test
-└── /models
-    └── model.h5
-```
-
 ---
 
 ## 🚀 Future Plans
-- Add data augmentation
 - Fine-tune with Transfer Learning (like using MobileNet)
 - Export as a web app
-
 ---
 
 ## 👋 Connect
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+- GitHub: [your-username](https://github.com/MegtonLabs)
+- Instagram: https://www.instagram.com/zuriher_mallick
 
 > _If you like this project, give it a star! ⭐_
 
