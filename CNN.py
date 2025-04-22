@@ -24,7 +24,7 @@ MODEL_WEIGHTS_FILE = './checkpoint/mnist_cnn.weights.h5' # Where model weights a
 NUM_CLASSES = 10
 IMG_SIZE = 28      # Standard MNIST image size (pixels)
 INPUT_SHAPE = (IMG_SIZE, IMG_SIZE, 1) # Model input: height, width, channels
-EPOCHS = 15         # Number of training epochs (if training is needed)
+EPOCHS = 400         # Number of training epochs (if training is needed)
 BATCH_SIZE = 128    # Batch size for training
 
 # --- GUI Layout Sizes ---
