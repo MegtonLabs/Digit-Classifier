@@ -70,8 +70,6 @@ Consider adding:
 
 ## 📦 Folder Structure
 ```
-.
-
 └── /checkpoint
     └── mnist_cnn.weights.h5
 ├── CNN.py
@@ -87,8 +85,6 @@ Consider adding:
 ## 👋 Connect
 - GitHub: [your-username](https://github.com/MegtonLabs)
 - Instagram: https://www.instagram.com/zuriher_mallick
-
-> _If you like this project, give it a star! ⭐_
 
 ---
 
